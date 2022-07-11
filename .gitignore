@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+# IntelliJ project files
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
+
+.DS_Store
+=======
+*.DS_Store
+>>>>>>> ac8644199ea6e290fbf57fc7efd9408c1716d52a
