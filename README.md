@@ -326,3 +326,29 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/3273">3273</a> / <a href="https://blog.naver.com/o____ri/222682209446">풀이</a></li>
     </ul>
 </details>
+<br/>
+
+<details><summary>[유니온 파인드]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1717">1717</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_1717.java">코드</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1976">1976</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_1976.java">코드</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1043">1043</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_1043.java">코드</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[위상 정렬]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2252">2252</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_2252.java">코드</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1516">1516</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_1516.java">코드</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[다익스트라]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1753">1753</a> / <a href="https://github.com/kong0527/Algo-Study/blob/master/2022/SEP_2022/BOJ_1753.java">코드</a></li>
+    </ul>
+</details>
